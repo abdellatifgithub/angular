@@ -31,14 +31,6 @@
             "price": 60,
             "imgUrl": "https://imgplaceholder.com/640x480",
             "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis quidem magni explicabo porro"
-        },
-        {
-            "id": 5,
-            "category": "michel",
-            "name": "To day",
-            "price": 60,
-            "imgUrl": "https://imgplaceholder.com/640x480",
-            "desc": "coucou"
         }
     ]
 }
